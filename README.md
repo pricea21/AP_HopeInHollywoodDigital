@@ -12,6 +12,22 @@ Whack-a-Mole Tutorial: https://www.youtube.com/watch?v=oqnr7THMbcU
 
 Jeopardy Turorial: https://www.youtube.com/watch?v=g_Ff1SPhidg&list=PLECF6hIN7gWH3KMJqj3pkOC3mIxBBGRS9&index=1
 
+
+10/9/23
+
+-Fix List Cross off
+
+-Create an end screen the player goes to when game is complete
+
+-Code list cross off when a mini game is complete
+
+-Code a whack a mole mini game 
+
+-Code a Jeopardy (True or False) game
+
+-Create a working Web GL build
+
+
 10/2/23 
 
 -Fix UI scale
